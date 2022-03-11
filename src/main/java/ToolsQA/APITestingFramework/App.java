@@ -11,12 +11,3 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
-
-public class Class2
-{
-    public static void abc( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-}
-
